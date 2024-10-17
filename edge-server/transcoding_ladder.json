@@ -1,0 +1,20 @@
+[
+    {
+      "height": 720,
+      "bitrate": 2500,
+      "audio_bitrate": 128,
+      "keyframe_interval": 1
+    },
+    {
+      "height": 480,
+      "bitrate": 1000,
+      "audio_bitrate": 96,
+      "keyframe_interval": 1
+    },
+    {
+      "height": 360,
+      "bitrate": 600,
+      "audio_bitrate": 64,
+      "keyframe_interval": 1
+    }
+  ]
